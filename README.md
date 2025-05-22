@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Sathyamoorthi</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Development<br><br>🌱 I’m currently learning Angular, Nodejs<br><br>👨‍💻 All of my projects are available at https://sathyamoorthysathya.github.io/sathyamoorthy.github.io/<br><br>📫 How to reach me sathyamoorthysathya832@gmail.com<br><br>⚡ Fun fact I think I am Fun
 
